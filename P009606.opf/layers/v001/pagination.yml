@@ -3,30 +3,26 @@ annotation_type: pagination
 revision: '00001'
 annotations:
   7c3f5f03ce7f458e92e147683570489d:
-    page_index: 1a
-    page_info: null
-    reference: '30150001'
+    imgnum: 1
+    reference: 30150001.tif
     span:
       start: 0
       end: 710
   7ae48b37246145eaa76f663cb8eb67cc:
-    page_index: 1b
-    page_info: null
-    reference: '30150002'
+    imgnum: 2
+    reference: 30150002.tif
     span:
       start: 715
       end: 2193
   4fd73c4381554063bf03d6a9770aee3c:
-    page_index: 2a
-    page_info: null
-    reference: '30150003'
+    imgnum: 3
+    reference: 30150003.tif
     span:
       start: 2198
       end: 2377
   4827c784014c4926a3e4ffb50e698037:
-    page_index: 56a
-    page_info: null
-    reference: '30150111'
+    imgnum: 111
+    reference: 30150111.tif
     span:
       start: 2382
       end: 3028
